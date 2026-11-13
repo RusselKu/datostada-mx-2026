@@ -3,25 +3,23 @@
 **Yucatán a través de los Datos**  
 12, 13 y 14 de noviembre de 2026 · Universidad Politécnica de Yucatán
 
-Repositorio oficial de datos y entregables de los equipos. Cada equipo investigará una pregunta relevante para Yucatán con datos públicos, analizará evidencia y construirá un dashboard en Tableau para comunicar sus hallazgos.
+Repositorio oficial de entregables de los equipos. Cada equipo investigará una pregunta relevante para Yucatán con datos públicos, analizará evidencia y construirá un dashboard en Tableau para comunicar sus hallazgos.
 
 ## Instrucciones
 
-- Consulta los datos en `datos/yucatan-vivo/`, `datos/yucatan-productivo/` y `datos/yucatan-digital/`.
-- Conserva los datos comunes sin modificaciones. Trabaja sobre copias dentro de la carpeta de tu equipo.
 - Coloca las entregas en la subcarpeta correspondiente de tu equipo dentro de `equipos/`. Modifica únicamente los archivos de tu equipo.
 - Usa nombres de carpeta en minúsculas y con guiones, y nombres de archivo claros.
 - Incluye los datos utilizados y los archivos necesarios para verificar el análisis. Si reutilizas archivos publicados en otra fase, indica su ruta dentro de la carpeta de tu equipo.
 - Comprueba que los archivos estén publicados en GitHub y que puedan descargarse y abrirse antes del plazo. Guardarlos únicamente en tu computadora no constituye una entrega.
 - Este es el único README de instrucciones del repositorio.
 
-## Retos y datos
+## Retos
 
-| Reto | Fuentes | Carpeta |
-| --- | --- | --- |
-| **Yucatán Vivo · El agua que no vemos** | RENAMECA de CONAGUA: monitoreo de calidad del agua subterránea | `datos/yucatan-vivo/` |
-| **Yucatán Productivo · El clima también produce** | SIH de CONAGUA: registros climatológicos; DGSIAP: estadísticas agrícolas | `datos/yucatan-productivo/` |
-| **Yucatán Digital · Detrás de la pantalla** | MOCIBA del INEGI: microdatos sobre ciberacoso con recorte de Yucatán | `datos/yucatan-digital/` |
+| Reto | Fuentes |
+| --- | --- |
+| **Yucatán Vivo · El agua que no vemos** | RENAMECA de CONAGUA: monitoreo de calidad del agua subterránea |
+| **Yucatán Productivo · El clima también produce** | SIH de CONAGUA: registros climatológicos; DGSIAP: estadísticas agrícolas |
+| **Yucatán Digital · Detrás de la pantalla** | MOCIBA del INEGI: microdatos sobre ciberacoso con recorte de Yucatán |
 
 Varios equipos pueden elegir el mismo reto. Todos compiten con los mismos criterios. Pueden cambiar de reto hasta entregar el Data Brief; después podrán ajustar la pregunta dentro del reto elegido y explicar los cambios en las siguientes fases.
 
@@ -29,10 +27,6 @@ Varios equipos pueden elegir el mismo reto. Todos compiten con los mismos criter
 
 ```text
 README.md
-datos/
-    yucatan-vivo/
-    yucatan-productivo/
-    yucatan-digital/
 equipos/
     sunchos-team/
     bark-d/

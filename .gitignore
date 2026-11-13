@@ -1,0 +1,14 @@
+# Archivos temporales y locales
+.DS_Store
+Thumbs.db
+~$*
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# No excluir PDFs, datos ni archivos de Tableau: son entregables.
